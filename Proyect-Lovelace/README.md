@@ -1,4 +1,4 @@
-# Proyect_Lovelace
+# Proyect Lovelace
  Sciences programming problems from https://projectlovelace.net/
 
 Ideas:
